@@ -1,1 +1,1 @@
-console.log("Hello Jenkins World");
+console.log("Testing Jenkins SCM");
